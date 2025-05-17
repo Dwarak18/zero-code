@@ -5,6 +5,34 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "coding_challenge_6a9fb247"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "coding_challenge_6a9fb247"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSubarray",
+            "request": "launch",
+            "mainClass": "MaximumSubarray",
+            "projectName": "coding_challenge_6a9fb247"
+        },
+        {
+            "type": "java",
+            "name": "BestTimeBuySellStock",
+            "request": "launch",
+            "mainClass": "BestTimeBuySellStock",
+            "projectName": "coding_challenge_6a9fb247"
+        },
+        {
             "name": "Launch Program",
             "type": "node",
             "request": "launch",
